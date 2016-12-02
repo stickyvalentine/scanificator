@@ -1,5 +1,5 @@
 # scanificator
-scanificator is for creating a spreadsheets of student ID numbers with the their ipad ID numbers. 
+Scanificator is for creating a spreadsheets of student ID numbers with the their ipad ID numbers. 
 It is intended to be used with a barcode scanner.
 
 ## Use:
