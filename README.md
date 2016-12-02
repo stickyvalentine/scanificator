@@ -1,4 +1,4 @@
-# scanificator
+# Scanificator
 Scanificator is for creating a spreadsheets of student ID numbers with the their ipad ID numbers. 
 It is intended to be used with a barcode scanner.
 
