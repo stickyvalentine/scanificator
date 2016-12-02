@@ -1,10 +1,10 @@
-## scanificator
+# scanificator
 
 If python 2.7 is installed and included in the Path, the file 'scanificator.py' can be run with out compiling. 
 
 
 
-# Compile to .exe:
+## Compile to .exe:
 
 Install Python 2.7. Make sure to install it with the option to have Python in the Path. 
 
