@@ -1,5 +1,8 @@
 # scanificator
+scanificator is for creating a spreadsheets of student ID numbers with the their ipad ID numbers. 
+It is intended to be used with a barcode scanner.
 
+## Use:
 If python 2.7 is installed and included in the Path, the file 'scanificator.py' can be run with out compiling. 
 
 
